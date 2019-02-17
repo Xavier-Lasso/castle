@@ -182,3 +182,6 @@ build/
 dist/
 
 exports
+
+### JetBrains###
+.idea
